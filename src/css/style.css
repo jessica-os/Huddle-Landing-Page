@@ -1,0 +1,126 @@
+html {
+  font-size: 62, 5%;
+}
+
+body {
+  background: url(../images/bg-desktop.svg) no-repeat center;
+  background-size: cover;
+  background-color: var(--primary-medium-color);
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  height: 90vh;
+  padding: 3rem 4rem 0;
+}
+
+.logo img {
+  width: 17rem;
+  margin-top: 1.6rem;
+}
+
+.container .conteudo-principal {
+  display: flex;
+  gap: 4rem;
+  margin-top: 3rem;
+  max-width: 1440px;
+}
+
+.container .conteudo-principal img {
+  width: 50%;
+}
+
+.conteudo-principal .descricao .titulo {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  font-size: 2.3rem;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.conteudo-principal .descricao .texto {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  margin-top: 1.8rem;
+}
+
+.conteudo-principal .descricao .botao {
+  margin-top: 2rem;
+  width: 10rem;
+  padding: 0.8rem;
+  border-radius: 1.5rem;
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  cursor: pointer;
+  box-shadow: 3px 2px 10px 5px rgba(0, 0, 0, 0.29);
+  transition: var(--transition-effect);
+}
+
+.conteudo-principal .descricao .botao:hover {
+  background-color: var(--primary-soft-color);
+}
+
+.conteudo-principal .descricao .botao a {
+  color: var(--primary-medium-color);
+}
+
+.conteudo-principal .descricao .botao:hover a {
+  color: #fff;
+}
+
+.social {
+  display: flex;
+  justify-content: end;
+  margin-right: 90px;
+}
+
+.social ul {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.social ul li a {
+  color: #fff;
+  border: solid 1px #fff;
+  padding: 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48px;
+  transition: var(--transition-effect);
+}
+
+.social a:hover {
+  color: var(--primary-soft-color);
+  border-color: var(--primary-soft-color);
+}
+
+/* .social ul {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.social ul li a {
+  color: #fff;
+  border: solid 1px #fff;
+  padding: 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48px;
+  transition: var(--transition-effect);
+}
+
+.social a:hover {
+  color: var(--primary-soft-color);
+  border-color: var(--primary-soft-color);
+}
+ */
