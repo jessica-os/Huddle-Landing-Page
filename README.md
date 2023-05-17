@@ -23,4 +23,4 @@ Na criação deste projeto, pude desenvolver vários conhecimentos ensinados no 
 <img src="./src/gif.readme/Peek 27-04-2023 mobile.gif" alt="Gif tela mobile">
 
 
-Para ver o projeto pronto [ clique aqui ](https://github.com/jessica-os/Huddle-Landing-Page.git)
+Para ver o projeto pronto [ clique aqui ](https://jessica-os.github.io/Huddle-Landing-Page/)
