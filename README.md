@@ -9,9 +9,9 @@ Na criação deste projeto, pude desenvolver vários conhecimentos ensinados no 
 - Trabalhar com variáveis.
 - Trabalhar com a responsividade através das mediasqueries.
 
+<br><br>
+## Veja como ficou:
 <br>
-Veja como ficou:
-
 
 ## Full Screen:
 <img src="./src/gif.readme/Peek 27-04-2023 fullscreen.gif" alt="gif tela fullscreen">
@@ -22,4 +22,5 @@ Veja como ficou:
 ## Mobile:
 <img src="./src/gif.readme/Peek 27-04-2023 mobile.gif" alt="Gif tela mobile">
 
-Para ver o projeto pronto [ clique aqui ]( https://jessica-os.github.io/Huddle-Landing-Page/)
+
+Para ver o projeto pronto [ clique aqui ](https://github.com/jessica-os/Huddle-Landing-Page.git)

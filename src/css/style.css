@@ -44,7 +44,7 @@ body {
 .conteudo-principal .descricao .texto {
   color: #fff;
   font-size: 1rem;
-  line-height: 1.4rem;
+  line-height: 1.5rem;
   margin-top: 1.8rem;
 }
 
@@ -100,27 +100,4 @@ body {
   color: var(--primary-soft-color);
   border-color: var(--primary-soft-color);
 }
-
-/* .social ul {
-  display: flex;
-  flex-direction: row;
-  gap: 25px;
-}
-
-.social ul li a {
-  color: #fff;
-  border: solid 1px #fff;
-  padding: 15px;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 48px;
-  transition: var(--transition-effect);
-}
-
-.social a:hover {
-  color: var(--primary-soft-color);
-  border-color: var(--primary-soft-color);
-}
- */
+/* teste teste teste teste
