@@ -76,6 +76,7 @@ body {
   display: flex;
   justify-content: end;
   margin-right: 90px;
+  margin-top: 10px;
 }
 
 .social ul {
